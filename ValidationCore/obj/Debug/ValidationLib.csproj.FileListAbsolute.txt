@@ -1,0 +1,11 @@
+C:\Users\A17909\source\workspaces\MPHL-TCMS\trunk\ValidationCore\ValidationCore\bin\Debug\ValidationLib.dll
+C:\Users\A17909\source\workspaces\MPHL-TCMS\trunk\ValidationCore\ValidationCore\bin\Debug\ValidationLib.pdb
+C:\Users\A17909\source\workspaces\MPHL-TCMS\trunk\ValidationCore\ValidationCore\obj\Debug\ValidationLib.csprojAssemblyReference.cache
+C:\Users\A17909\source\workspaces\MPHL-TCMS\trunk\ValidationCore\ValidationCore\obj\Debug\ValidationLib.csproj.CoreCompileInputs.cache
+C:\Users\A17909\source\workspaces\MPHL-TCMS\trunk\ValidationCore\ValidationCore\obj\Debug\ValidationLib.dll
+C:\Users\A17909\source\workspaces\MPHL-TCMS\trunk\ValidationCore\ValidationCore\obj\Debug\ValidationLib.pdb
+C:\Users\A17909.000\source\workspaces\MPHL-TCMS\trunk\ValidationCore\ValidationCore\bin\Debug\ValidationLib.dll
+C:\Users\A17909.000\source\workspaces\MPHL-TCMS\trunk\ValidationCore\ValidationCore\bin\Debug\ValidationLib.pdb
+C:\Users\A17909.000\source\workspaces\MPHL-TCMS\trunk\ValidationCore\ValidationCore\obj\Debug\ValidationLib.csproj.CoreCompileInputs.cache
+C:\Users\A17909.000\source\workspaces\MPHL-TCMS\trunk\ValidationCore\ValidationCore\obj\Debug\ValidationLib.dll
+C:\Users\A17909.000\source\workspaces\MPHL-TCMS\trunk\ValidationCore\ValidationCore\obj\Debug\ValidationLib.pdb
