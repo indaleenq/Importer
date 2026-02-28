@@ -29,6 +29,6 @@ namespace TesterProgram
         static void NewMethod()
         {
             Console.WriteLine("Display");
-        }
+        }fsd;fkldskf;kd'fklsdkflfkl;
     }
 }
