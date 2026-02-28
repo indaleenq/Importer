@@ -25,5 +25,10 @@ namespace TesterProgram
                 }
             }
         }
+
+        static void NewMethod()
+        {
+            Console.WriteLine("Display");
+        }
     }
 }
